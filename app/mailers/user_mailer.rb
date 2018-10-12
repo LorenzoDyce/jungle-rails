@@ -10,6 +10,6 @@ class UserMailer < ApplicationMailer
         end
   
          mail(to: @email, subject: "Jungle | Purchase Receipt (Order ##{@order.id})")
-    end
+     end
     
-  end
+end
