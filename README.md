@@ -16,12 +16,12 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Screenshots
 
-[Screenshot 1](https://github.com/LorenzoDyce/jungle-rails/blob/master/docs/Screen%20Shot%202018-10-16%20at%2010.02.25%20PM.png?raw=true)
-[Screenshot 2](https://github.com/LorenzoDyce/jungle-rails/blob/master/docs/Screen%20Shot%202018-10-16%20at%2010.03.26%20PM.png?raw=true)
+!["Screenshot 1"](https://github.com/LorenzoDyce/jungle-rails/blob/master/docs/Screen%20Shot%202018-10-16%20at%2010.02.25%20PM.png?raw=true)
+!["Screenshot 2"](https://github.com/LorenzoDyce/jungle-rails/blob/master/docs/Screen%20Shot%202018-10-16%20at%2010.03.26%20PM.png?raw=true)
 
-[Screenshot 3](https://github.com/LorenzoDyce/jungle-rails/blob/master/docs/Screen%20Shot%202018-10-16%20at%2010.14.34%20PM.png?raw=true)
+!["Screenshot 3"](https://github.com/LorenzoDyce/jungle-rails/blob/master/docs/Screen%20Shot%202018-10-16%20at%2010.14.34%20PM.png?raw=true)
 
-[Screenshot 4](https://github.com/LorenzoDyce/jungle-rails/blob/master/docs/Screen%20Shot%202018-10-16%20at%209.59.25%20PM.png?raw=true)
+!["Screenshot 4"](https://github.com/LorenzoDyce/jungle-rails/blob/master/docs/Screen%20Shot%202018-10-16%20at%209.59.25%20PM.png?raw=true)
 
 ## Stripe Testing
 
